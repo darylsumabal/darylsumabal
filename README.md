@@ -8,10 +8,8 @@
 
 <div align="center">
  
- 🔭 I’m currently a college student on **Bohol Island State University**
+ 🔭 I’m currently a College Student on **Bohol Island State University**
  
- 🌱 I’m currently learning **React, Laravel, Rest API**
-
  </div>
  
 <div align="center"> 
