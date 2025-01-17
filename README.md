@@ -2,15 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daryl+Sumabal!;" />
 </h1>
 
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently a College Student on **Bohol Island State University**
- 
- </div>
  
 <div align="center"> 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkWsXWMmDSjTTXZQCDwdwhpjnFpVNtfJDqWCSBBqLrQtWVWMMvkxLBbnDXhVDqSjVmtlZ" target="_blank">
