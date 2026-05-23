@@ -95,6 +95,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -104,5 +105,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/snake-output/snake.svg" alt="Snake animation" />
 
 ###
