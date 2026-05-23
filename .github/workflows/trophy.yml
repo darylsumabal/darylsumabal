@@ -1,14 +1,12 @@
 name: Generate trophy card
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -16,33 +14,17 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: generate trophy.svg
+      - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
-          max-cols: -1
-          max-rows: 1
+          max-cols: 6
+          max-rows: 2
           margin-width: 8
           margin-height: 8
           no-background: false
           no-frame: false
-
-      - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-cols: 6 # Change this from -1 to 6 (or 0 for automatic columns)
-          max-rows: 2 # Increased rows slightly so trophies don't get cut off if you have more than 6
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
-       
