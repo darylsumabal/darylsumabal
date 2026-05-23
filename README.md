@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://ik.imagekit.io/2u0caxvlz/portfolio/home_image.png?updatedAt=1779334143799"  />
-</div>
+
 
 ###
 
@@ -95,7 +93,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
