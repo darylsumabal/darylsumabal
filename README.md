@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=LEGENDARYL&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://ik.imagekit.io/2u0caxvlz/portfolio/home_image.png?updatedAt=1779334143799"  />
+</div>
 
 ###
 
@@ -68,7 +76,7 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/daryl-sumabal-11b5b6265/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -86,18 +94,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div> -->
+</div>
 
 ###
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/breakout-contribution-graph.svg">
-</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
