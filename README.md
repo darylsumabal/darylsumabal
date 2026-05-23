@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/darylsumabal/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
