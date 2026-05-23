@@ -68,7 +68,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/daryl-sumabal-11b5b6265/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -86,11 +86,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/darylsumabal/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/darylsumabal/darylsumabal/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
 
