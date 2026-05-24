@@ -39,6 +39,8 @@
   <img width="12" />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" height="60" alt="alpinelinux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" height="60" alt="livewire logo"/>
+  <img width="12" />      
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
