@@ -91,7 +91,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="60" alt="photoshop logo"  />
 </div>
 
-https://komarev.com/ghpvc/?username=darylsumabal
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darylsumabal" alt="Profile Views" />
+</p>
 
 ###
 
